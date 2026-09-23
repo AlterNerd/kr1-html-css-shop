@@ -1,0 +1,19 @@
+# Системные файлы
+.DS_Store 
+Thumbs.db 
+
+# Настройки редактора
+.vscode/ 
+node_modules/ 
+
+# Логи
+dist/ 
+build/ 
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Переменные окружения
+*.log 
+.env
