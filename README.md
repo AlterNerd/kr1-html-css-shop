@@ -1,5 +1,9 @@
 # Учебный frontend-проект 
 
+## Ссылка на опубликованный проект
+
+GitHub Pages: https://alternerd.github.io/kr1-html-css-shop/
+
 ## Текущий статус
 
 Создана базовая структура проекта
